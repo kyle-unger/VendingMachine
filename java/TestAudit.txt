@@ -1,0 +1,31 @@
+22:01:20.250 2019-06-09 FEED AMOUNT: $12.0 Ending Balance: $12.0
+22:01:21.185 2019-06-09 FEED AMOUNT: $12.0 Ending Balance: $24.0
+22:01:23.825 2019-06-09 Stackers A2 Starting Balance: $24.0 Ending Balance: $22.55
+22:01:26.081 2019-06-09 Grain Waves A3 Starting Balance: $22.55 Ending Balance: $19.8
+22:01:28.866 2019-06-09 Heavy C4 Starting Balance: $19.8 Ending Balance: $18.3
+22:01:29.874 2019-06-09 MAKE CHANGE: $18.3 Ending Balance: $0.00
+14:17:54.703 2019-06-12 MAKE CHANGE: $0.0 Ending Balance: $0.00
+14:19:51.860 2019-06-12 FEED AMOUNT: $-1.0 Ending Balance: $-1.0
+14:21:11.698 2019-06-12 MAKE CHANGE: $-1.0 Ending Balance: $0.00
+14:21:38.504 2019-06-12 FEED AMOUNT: $1.0 Ending Balance: $1.0
+14:22:02.627 2019-06-12 FEED AMOUNT: $2.0 Ending Balance: $3.0
+14:22:10.774 2019-06-12 Moonpie B1 Starting Balance: $3.0 Ending Balance: $1.2
+14:23:03.769 2019-06-12 FEED AMOUNT: $1.0 Ending Balance: $2.2
+14:23:10.237 2019-06-12 Cowtales B2 Starting Balance: $2.2 Ending Balance: $0.7000000000000002
+14:24:32.923 2019-06-12 FEED AMOUNT: $3.0 Ending Balance: $3.7
+14:25:47.562 2019-06-12 Triplemint D4 Starting Balance: $3.7 Ending Balance: $2.95
+14:25:55.490 2019-06-12 Triplemint D4 Starting Balance: $2.95 Ending Balance: $2.2
+14:26:02.232 2019-06-12 Triplemint D4 Starting Balance: $2.2 Ending Balance: $1.4500000000000002
+14:27:14.549 2019-06-12 MAKE CHANGE: $1.4500000000000002 Ending Balance: $0.00
+14:30:06.518 2019-06-12 FEED AMOUNT: $5.0 Ending Balance: $5.0
+14:30:09.256 2019-06-12 Potato Crisps A1 Starting Balance: $5.0 Ending Balance: $1.9500000000000002
+14:30:14.543 2019-06-12 Triplemint D4 Starting Balance: $1.9500000000000002 Ending Balance: $1.2000000000000002
+14:30:19.196 2019-06-12 Triplemint D4 Starting Balance: $1.2000000000000002 Ending Balance: $0.4500000000000002
+14:30:21.949 2019-06-12 MAKE CHANGE: $0.4500000000000002 Ending Balance: $0.00
+15:18:54.985 2019-06-12 FEED AMOUNT: $20.0 Ending Balance: $20.0
+15:18:59.836 2019-06-12 Potato Crisps A1 Starting Balance: $20.0 Ending Balance: $16.95
+15:19:05.009 2019-06-12 Potato Crisps A1 Starting Balance: $16.95 Ending Balance: $13.899999999999999
+15:19:08.901 2019-06-12 Potato Crisps A1 Starting Balance: $13.899999999999999 Ending Balance: $10.849999999999998
+15:19:14.011 2019-06-12 Potato Crisps A1 Starting Balance: $10.849999999999998 Ending Balance: $7.799999999999998
+15:19:20.165 2019-06-12 Potato Crisps A1 Starting Balance: $7.799999999999998 Ending Balance: $4.749999999999998
+15:20:00.507 2019-06-12 FEED AMOUNT: $10.0 Ending Balance: $14.749999999999998
